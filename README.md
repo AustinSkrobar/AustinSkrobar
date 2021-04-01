@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Design, and paired programming.
 - 💬 Ask me about ... my favorite projects.
 - 📫 How to reach me: ... www.linkedin.com/in/austin-skrobarczyk
-- ⚡ Fun fact: ... I'm colorb-lind!
+- ⚡ Fun fact: ... I'm colorblind and half Polish!
 -->
