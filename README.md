@@ -3,10 +3,10 @@
 ## Hi There!
 
 Welcome to my page. 
-- 🔭 I’m currently working on MVPshop.
-- 🌱 I’m currently learning TailwindCss).
-- 👯 I’m looking to collaborate on Hackathons.
-- 🤔 I’m looking for help with Design, and paired programming.
+- 🔭 I’m currently working on a booking service/shop for stores.
+- 🌱 I’m currently learning Svelte.
+- 👯 I’m looking to collaborate on Data visualizations.
+- 🤔 I’m looking for help with understanding my next steps.
 - 💬 Ask me about the future 🧙‍♂️.
 - 📫 How to reach me: ... www.linkedin.com/in/austin-skrobarczyk
-- ⚡ Fun fact: ... I'm colorblind and half Polish!
+- ⚡ Fun fact: ... I'm colorblind but can still design thanks to the tools available on the web!
